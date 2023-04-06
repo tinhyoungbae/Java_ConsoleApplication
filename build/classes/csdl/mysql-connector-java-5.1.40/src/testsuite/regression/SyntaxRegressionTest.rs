@@ -1,0 +1,3 @@
+testsuite.regression.SyntaxRegressionTest
+testsuite.regression.SyntaxRegressionTest$1
+testsuite.regression.SyntaxRegressionTest$2
